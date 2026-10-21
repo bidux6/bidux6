@@ -6,3 +6,4 @@
 <img width="452" height="452" alt="second" src="READMEASSETS/third.gif" />
 
 hi! i like to make cool stuff
+i like math
